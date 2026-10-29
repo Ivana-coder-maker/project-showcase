@@ -14,7 +14,7 @@
 
 I'm looking for an internship in software engineering or data science. This portfolio brings together my academic projects at EPFL and Imperial College London: Java applications, RISC-V programming and image analysis in Python.
 
-I had already programmed in Python before EPFL. Learning Java, then working closer to the hardware in assembly, gave me new ways to approach problems. Computer science grew on me with each project — and so did my appetite for the next one.
+I had already programmed in Python before EPFL. Learning Java, then working closer to the hardware in assembly, gave me new ways to approach problems. Computer science grew on me with each project, and so did my appetite for the next one.
 
 ## Selected projects
 

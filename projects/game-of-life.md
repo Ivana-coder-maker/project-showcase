@@ -28,4 +28,4 @@ I worked on this project in EPFL's Computer Architecture course, using the suppl
 
 ## A first in assembly
 
-This was my first assembly project. I wanted to understand at least the foundations of what happens beneath the languages I usually write. Registers and memory addresses made the computer's architecture much more concrete — Python had been quietly doing quite a lot for me.
+This was my first assembly project. I wanted to understand at least the foundations of what happens beneath the languages I usually write. Registers and memory addresses made the computer's architecture much more concrete. Python had been quietly doing quite a lot for me.

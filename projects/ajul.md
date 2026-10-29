@@ -27,4 +27,4 @@ I completed Ajul individually in EPFL's object-oriented programming course, foll
 
 ## A personal takeaway
 
-I came to EPFL with Python experience, but Java was new to me. The programming foundations carried over; the language and object-oriented structure still took learning. Completing Ajul on my own meant bringing those pieces together — with no teammate to hand the next bug to.
+I came to EPFL with Python experience, but Java was new to me. The programming foundations carried over; the language and object-oriented structure still took learning. Completing Ajul on my own meant bringing those pieces together, with no teammate to hand the next bug to.

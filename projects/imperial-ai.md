@@ -36,7 +36,7 @@ Python, NumPy, PyTorch, OpenCLIP and Pillow.
 
 ## Learning to work with Git
 
-At the start, I did not yet know how to push or pull. My first version of collaboration was copy, paste, and ask a teammate to integrate my changes — effective teamwork, less effective version control. I quickly started learning Git and the importance of synchronising changes and coordinating edits to shared files.
+At the start, I did not yet know how to push or pull. My first version of collaboration was copy, paste, and ask a teammate to integrate my changes. Effective teamwork, less effective version control. I quickly started learning Git and the importance of synchronising changes and coordinating edits to shared files.
 
 ## Materials
 
