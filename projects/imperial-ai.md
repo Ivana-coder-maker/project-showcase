@@ -26,9 +26,17 @@ I also implemented visualisations that show a query image alongside its retrieve
 
 The segmentation, attribute-detection model and report-generation components were handled by other members of the group.
 
+### Supporting data preparation
+
+I also helped a teammate prepare for model training. The volume of images made the dataset difficult to work through, so we worked on preprocessing and sorting the images before training. My main implementation responsibilities remained evaluation and retrieval.
+
 ## Technologies
 
 Python, NumPy, PyTorch, OpenCLIP and Pillow.
+
+## Learning to work with Git
+
+At the start, I did not yet know how to push or pull. My first version of collaboration was copy, paste, and ask a teammate to integrate my changes — effective teamwork, less effective version control. I quickly started learning Git and the importance of synchronising changes and coordinating edits to shared files.
 
 ## Materials
 

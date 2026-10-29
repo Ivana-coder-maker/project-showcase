@@ -1,6 +1,6 @@
 # Ajul
 
-**EPFL · CS-108 · Java · JavaFX**
+**EPFL · CS-108 · Individual project · Java · JavaFX**
 
 [← All projects](../README.md)
 
@@ -23,4 +23,8 @@ The same game state needs to support rule enforcement, user interaction and auto
 
 ## Context
 
-I worked on Ajul in EPFL's object-oriented programming course, following the course specification and supplied structure. The coursework code is kept private.
+I completed Ajul individually in EPFL's object-oriented programming course, following the course specification and supplied structure. The coursework code is kept private.
+
+## A personal takeaway
+
+I came to EPFL with Python experience, but Java was new to me. The programming foundations carried over; the language and object-oriented structure still took learning. Completing Ajul on my own meant bringing those pieces together — with no teammate to hand the next bug to.

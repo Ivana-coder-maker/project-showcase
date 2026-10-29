@@ -12,9 +12,9 @@
 
 ---
 
-Computer science grew on me over time. The more I learned, the more I wanted to understand and build. Somewhere along the way, it became part of my daily life — a little like food for my curiosity.
+I'm looking for an internship in software engineering or data science. This portfolio brings together my academic projects at EPFL and Imperial College London: Java applications, RISC-V programming and image analysis in Python.
 
-I'm looking for an internship in software engineering or data science. Here are some of the projects I've worked on at EPFL and during my summer school at Imperial College London, from games in Java to image retrieval with CLIP.
+I had already programmed in Python before EPFL. Learning Java, then working closer to the hardware in assembly, gave me new ways to approach problems. Computer science grew on me with each project — and so did my appetite for the next one.
 
 ## Selected projects
 

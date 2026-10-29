@@ -25,3 +25,7 @@ This project involved registers, memory addresses, procedure calls and direct in
 ## Context
 
 I worked on this project in EPFL's Computer Architecture course, using the supplied template and Gecko5 environment. The coursework source code is kept private.
+
+## A first in assembly
+
+This was my first assembly project. I wanted to understand at least the foundations of what happens beneath the languages I usually write. Registers and memory addresses made the computer's architecture much more concrete — Python had been quietly doing quite a lot for me.
