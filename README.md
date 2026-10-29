@@ -1,10 +1,20 @@
-# Ivana Tchoula
+<div align="center">
 
-### Software development · Computer vision · Machine learning
+# Hi, I'm Ivana.
 
-I am interested in software engineering and data science internships. This portfolio presents projects I worked on at EPFL and during a summer school at Imperial College London.
+**Java games · RISC-V assembly · Computer vision**
 
-My projects range from Java games to evaluating image segmentation and building image retrieval with CLIP. Each project page explains the purpose, technical scope and academic context.
+*A growing appetite for computer science.*
+
+[Ajul](projects/ajul.md) · [ICMaze](projects/icmaze.md) · [Game of Life](projects/game-of-life.md) · [Imperial AI project](projects/imperial-ai.md)
+
+</div>
+
+---
+
+Computer science grew on me over time. The more I learned, the more I wanted to understand and build. Somewhere along the way, it became part of my daily life — a little like food for my curiosity.
+
+I'm looking for an internship in software engineering or data science. Here are some of the projects I've worked on at EPFL and during my summer school at Imperial College London, from games in Java to image retrieval with CLIP.
 
 ## Selected projects
 
@@ -12,18 +22,20 @@ My projects range from Java games to evaluating image segmentation and building 
 | :--- | :--- | :--- | :--- |
 | **Ajul** | A digital adaptation of Azul, with a graphical board and computer players. | Java · JavaFX · Monte Carlo Tree Search | [Project overview →](projects/ajul.md) |
 | **ICMaze** | A maze adventure with generated levels, keys, portals and enemies. | Java 21 · Maven · Provided game engine | [Project overview →](projects/icmaze.md) |
+| **Game of Life** | A cellular automaton with an LED grid and button controls, written in assembly. | RISC-V · Gecko5 | [Project overview →](projects/game-of-life.md) |
 | **Medical image analysis** | A team project combining lesion segmentation, attribute detection and findings reports. My contributions were evaluation and the retrieval bonus. | Python · NumPy · PyTorch · CLIP · Pillow | [Project overview →](projects/imperial-ai.md) |
 
 ## What I worked with
 
 - **Software development:** object-oriented Java, game state, graphical interfaces and existing frameworks.
+- **Computer architecture:** assembly programming, memory-mapped peripherals and input/output.
 - **Model evaluation:** comparing predicted masks with reference annotations, interpreting per-attribute metrics and visualising results.
 - **Image retrieval:** pretrained CLIP embeddings, cosine similarity and ranked image neighbours.
 
 ## About this portfolio
 
-These are educational projects. The EPFL projects follow course specifications and include course-provided components; the Imperial project was completed in a group. The project pages distinguish the overall project from my confirmed contributions.
+These projects were part of my studies. The EPFL projects use course specifications and supplied components. At Imperial, I worked in a team and developed the evaluation and image retrieval parts.
 
-This public repository contains project descriptions only. Coursework source code, datasets, trained models and teaching materials are kept out of this showcase. I am happy to discuss my work and technical choices in an interview; any source-code access remains subject to course and team permissions.
+I keep coursework code and datasets private. This space is for presenting the projects, and I'd be happy to talk through my contributions and technical choices in an interview.
 
 [GitHub profile](https://github.com/Ivana-coder-maker)

@@ -30,17 +30,6 @@ The segmentation, attribute-detection model and report-generation components wer
 
 Python, NumPy, PyTorch, OpenCLIP and Pillow.
 
-## Verification
-
-The portfolio check covered my two components:
-
-- Six metric cases, including identical masks, disjoint masks, partial overlap and empty masks.
-- Retrieval ordering checked against known vectors.
-- CLIP inference on two local query images and four reference images, producing six ranked-neighbour records.
-- Two retrieval visualisations generated; one also inspected visually.
-
-These checks establish basic functionality on a small sample. They are not a benchmark of retrieval quality or a validation of the full team workflow.
-
 ## Materials
 
 The public showcase contains descriptions only. The team's source code, medical images, model weights and course materials are not distributed here.

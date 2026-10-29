@@ -21,10 +21,6 @@ The project uses Java and a game engine supplied by the course. Its structure se
 
 It provides experience working within an existing object-oriented framework and connecting player input, game state and interactions between objects.
 
-## Context and verification
+## Context
 
-I worked on ICMaze as part of EPFL's introductory programming course. The engine and tutorials were provided as teaching material. This page describes the overall project without attributing those supplied components to me.
-
-The Java sources in my private collection compile with Java 21 compatibility. Full gameplay has not been rechecked for this portfolio.
-
-Coursework code and game assets are not included in this public repository.
+I worked on ICMaze in EPFL's introductory programming course, using the game engine and tutorials provided by the teaching team. The coursework code and game assets are kept private.
